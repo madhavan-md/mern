@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://lava1:lava1@cluster0.g5tbj.mongodb.net/sample_analytics?retryWrites=true&w=majority",
+    "jwtToken": "mysecrettoken"
+}
